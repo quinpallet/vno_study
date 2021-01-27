@@ -1,0 +1,9 @@
+{
+  "root": "App",
+  "entry": "./",
+  "options": {
+    "child": "Comp1",
+    "port": "3000",
+    "title": "myproject"
+  }
+}
