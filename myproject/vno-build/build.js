@@ -44,7 +44,7 @@ const App = new Vue({template: /* html */
 `
   <div id="app">
     <img
-      src="https://svgshare.com/i/SNz.svg"
+      src="https://github.com/open-source-labs/vno/raw/main/assets/vnologo.svg"
       alt="image"
       border="0"
       width="450"
